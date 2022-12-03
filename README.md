@@ -2,6 +2,8 @@
 
 Avatar Factory AI is a powerful and easy-to-use web application that allows users to create stunning avatar images using AI technology. With Avatar Factory AI, users can quickly and easily generate unique and cool avatar images for their social media profiles or personal projects.
 
+Visit https://avatarfactoryai.vercel.app/
+
 ## Behind the Scenes
 
 This project was entirely created by [ChatGPT](https://openai.com/blog/chatgpt/), a large language model trained by [OpenAI](https://openai.com/). ChatGPT was able to take the project requirements and generate the complete code for the Avatar Factory AI web application. 
